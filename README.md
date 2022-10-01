@@ -204,7 +204,7 @@ $ systemctl restart crond
 <br>
 
 >
-> 执行
+> 执行   1
 > ```bash
 > $ whereis php
 > # 确定php的位置，一般输出为“php: /usr/local/php /usr/local/php/bin/php”，选长的那个即：/usr/local/php/bin/php
